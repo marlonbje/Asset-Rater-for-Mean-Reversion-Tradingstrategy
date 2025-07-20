@@ -1,0 +1,1 @@
+# Asset-Rater-for-Mean-Reversion-Tradingstrategy
